@@ -12,6 +12,7 @@ function takeANumber(katzNumber){
 
 
 
+
 function nowServing(katzDeliLine){
 
   let i = 0;
