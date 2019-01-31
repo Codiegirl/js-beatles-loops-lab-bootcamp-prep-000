@@ -1,15 +1,15 @@
 var katzNumber = [];
-
+var counter = 0
 
 
 function takeANumber(katzNumber){
 
-  katzNumber.push(``);
-
+  katzNumber.push(`0`);
+  counter = counter + 1
   return (`You are number ${katzNumber.length}`);
 
 }
-
+ 
 
 
 
